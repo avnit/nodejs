@@ -11,4 +11,4 @@ ReactDOM.render(<div>
   <li>ASB Solutions</li>
   <li>The company is for all people</li>
   </ul>
-  <div>,document.getElementById("root"))
+  document.getElementById("root")</div>);
